@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\MasaCorporal\MasaCorporal\bin\Debug\MasaCorporal.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\MasaCorporal\MasaCorporal\bin\Debug\MasaCorporal.exe
+C:\Users\José\Desktop\Dev\C#\Consola\MasaCorporal\MasaCorporal\bin\Debug\MasaCorporal.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\MasaCorporal\MasaCorporal\obj\Debug\MasaCorporal.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\MasaCorporal\MasaCorporal\obj\Debug\MasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\MasaCorporal\MasaCorporal\obj\Debug\MasaCorporal.exe
+C:\Users\José\Desktop\Dev\C#\Consola\MasaCorporal\MasaCorporal\obj\Debug\MasaCorporal.pdb
